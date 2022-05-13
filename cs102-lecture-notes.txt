@@ -1,0 +1,6 @@
+Commands we learnt:
+git pull : Updates the repository to the latest version
+git status : Shows the status of the current repository and untracked files
+git add : adds a file that is to be committed to the repository
+git commit -m "Commit message" : Used to commit
+git remote -v : gives fetch and pull details
