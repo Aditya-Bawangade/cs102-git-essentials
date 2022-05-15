@@ -4,3 +4,6 @@ git pull : Any edit made in the web app is pulled
 git push : Any edit made in wsl is pushed to the main branch
 git commit -m "Message" : Is used to commit the changes
 git status : Shows untracked files along with the status of several files
+
+---
+In today's lecture, we learnt about the markdown language and how to install it's extension in VS code. We understood that the Markdown language is useful for building simple website. Markdown files are ending with the extensions .md. One can add the title by using # and subsections and sub-subsections can be added by using ## and ###.
