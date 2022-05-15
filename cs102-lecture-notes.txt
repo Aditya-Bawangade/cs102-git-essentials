@@ -1,0 +1,6 @@
+Commands we've learnt:
+git add : Stages the file
+git pull : Any edit made in the web app is pulled
+git push : Any edit made in wsl is pushed to the main branch
+git commit -m "Message" : Is used to commit the changes
+git status : Shows untracked files along with the status of several files
